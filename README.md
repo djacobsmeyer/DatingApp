@@ -1,12 +1,3 @@
-![Cover](https://user-images.githubusercontent.com/50031755/178385492-ad9ae4c3-87fd-4710-94ad-3b6921aa10e8.png)
-
-[![Author](https://img.shields.io/badge/author-GSTJ-F2C702?style=flat-square)](https://github.com/GSTJ)
-[![Languages](https://img.shields.io/github/languages/count/GSTJ/PegavaDatingApp?color=%23F2C702&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/GSTJ/PegavaDatingApp?color=F2C702&style=flat-square)](https://github.com/GSTJ/PegavaDatingApp/stargazers)
-[![Forks](https://img.shields.io/github/forks/GSTJ/PegavaDatingApp?color=%23F2C702&style=flat-square)](https://github.com/GSTJ/PegavaDatingApp/network/members)
-[![Contributors](https://img.shields.io/github/contributors/GSTJ/PegavaDatingApp?color=F2C702&style=flat-square)](https://github.com/GSTJ/PegavaDatingApp/graphs/contributors)
-
----
 
 ### Fully responsive design
 Posted publicly at the [Figma Community](https://www.figma.com/community/file/1128472053077012222)
